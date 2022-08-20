@@ -19,15 +19,15 @@ a{
 
 a:link, a:visited {
 	text-decoration: none
-	}
-a:hover {
-		text-decoration: underline;
+}
+a:hover{
+	text-decoration: underline;
 	color:red;
 	background:#FED7AA;
-	}
+}
 a:active {
 	text-decoration: none
-	}
+}
 
 header{
   padding: 32px 0;
