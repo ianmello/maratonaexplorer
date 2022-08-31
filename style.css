@@ -97,8 +97,7 @@ li .details{
 
 #cha{
   margin-left: 43px;
-  border: 1px solid blue
-
+ 
 }
 
 /* FONTES */
@@ -111,4 +110,12 @@ h1,h2,h3{
 
 .details p{
   color: rgba(0, 0, 0, 0.9);
+}
+
+#carne{
+  margin-top: 15px;
+}
+
+#serve{
+  font-size: 12px;
 }
